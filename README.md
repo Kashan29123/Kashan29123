@@ -4,7 +4,7 @@
 
 <br/>
 
-[![SUMMON]](https://1c45480c80cc.ngrok-free.app/api/tagline?v=18)
+![SUMMON](https://1c45480c80cc.ngrok-free.app/api/tagline?v=19)
 
 <br/>
 
