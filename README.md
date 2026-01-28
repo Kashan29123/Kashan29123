@@ -1,1 +1,1 @@
-[![My GitQuest Creature](https://gitquest-fx.vercel.app/api/widget/Kashan-2912)](https://gitquest-fx.vercel.app/Kashan-2912)
+[![My GitQuest Creature](https://gitquest.is-a.software/api/widget/Kashan-2912)](https://gitquest.is-a.software/Kashan-2912)
