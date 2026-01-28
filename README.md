@@ -2,6 +2,4 @@
 
 [![My GitQuest Creature](https://gitquest.is-a.software/api/widget/Kashan29123?v=5)](https://gitquest.is-a.software/Kashan29123)
 
-[![My GitQuest Creature](https://gitquest.is-a.software/api/widget/Clawz-123?v=5)](https://gitquest.is-a.software/Clawz-123)
-
 </div>
